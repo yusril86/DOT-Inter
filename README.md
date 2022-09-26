@@ -1,8 +1,10 @@
-## 1. Setup Project
+## 1. Database Design
+![Screenshot](db-diagram.png)
+## 2. Setup Project
 - Clone repository
 
 ```bash
-git clone https://github.com/yusril86/trooking.id-test.git
+git clone https://github.com/yusril86/DOT-Intern.git
 ```
 
 - Install Composer
