@@ -27,12 +27,7 @@
                         <i class=" bi bi-circle"></i><span>Produk</span>
                     </a>
                 </li>
-
-                <li>
-                    <a href="{{ url('/api') }}">
-                        <i class=" bi bi-circle"></i><span>Indonesia</span>
-                    </a>
-                </li>
+               
             </ul>
         </li><!-- End Data Web Profile Nav -->
         @else
